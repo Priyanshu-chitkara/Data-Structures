@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
