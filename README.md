@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
