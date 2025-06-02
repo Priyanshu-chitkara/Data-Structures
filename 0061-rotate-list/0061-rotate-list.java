@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    public int length(ListNode head){
+    public int count(ListNode head){
         ListNode temp=head;
         int count=0;
         while(temp!=null){
@@ -24,31 +24,33 @@ class Solution {
         while(temp.next.next!=null){
             temp=temp.next;
         }
+        
         ListNode newHead=temp.next;
         temp.next=null;
         newHead.next=head;
-        return newHead;
+        
+        
+      
+        
+          return newHead;
     }
-
     public ListNode rotateRight(ListNode head, int k) {
         if(head==null || k==0){
             return head;
         }
-        int n=length(head);
+        int n=count(head);
         if(k%n==0){
             return head;
         }
         k=k%n;
         while(k>0){
-            head=rotate(head);
-            k--;
+
+           head= rotate(head);
+           k--;
+
         }
         return head;
-
         
-        }
 
-    
-
-        
     }
+}
