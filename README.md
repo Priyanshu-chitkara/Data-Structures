@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0020-valid-parentheses) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
