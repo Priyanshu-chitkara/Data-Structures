@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
