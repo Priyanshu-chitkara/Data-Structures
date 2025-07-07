@@ -9,13 +9,10 @@ class Solution {
             else{
                 bp++;
             }
-
         }
-        
         if(nums[0]<nums[n-1]){
             bp++;
         }
-        
         return bp<=1;
         
     }
