@@ -1,23 +1,21 @@
-
 class Solution {
-    public void subset(int nums[],int index,List<List<Integer>> result,List<Integer> current){
-    int n=nums.length;
-    if(index>=n){
-        result.add(new ArrayList<>(current));
-        return;
-    }
-    subset(nums,index+1,result,current);
-    current.add(nums[index]);
-    subset(nums,index+1,result,current);
-    current.remove(current.size()-1);
-
-
-
-}
-    public List<List<Integer>> subsets(int[] nums) {
+    public void printS(int nums[],int ind,List<Integer> current,List<List<Integer>> result){
+        int n=nums.length;
+        if(ind==n){
+            result.add(new ArrayList<>(current));
+            return;
+        }
+        current.add(nums[ind]);
+        printS(nums,ind+1,current,result);
+        current.remove(current.size()-1);
         
+        printS(nums,ind+1,current,result);
+        
+
+    }
+    public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result=new ArrayList<>();
-        subset(nums,0,result,new ArrayList<>());
+        printS(nums,0,new ArrayList<>(),result);
         return result;
         
     }
