@@ -1,34 +1,22 @@
-import java.util.*;
-
 class Solution {
-    public void backtrack(int[] candidates, int target, List<List<Integer>> res, List<Integer> cur, int start) {
-        if (target == 0) {
-            res.add(new ArrayList<>(cur));
+    public void printF(int ind,int []arr,int target,List<List<Integer>> ans, List<Integer> ds){
+        if(target==0){
+            ans.add(new ArrayList<>(ds));
             return;
         }
-
-        for (int i = start; i < candidates.length; i++) {
-            // Skip duplicates at the same recursive level
-            if (i > start && candidates[i] == candidates[i - 1]) continue;
-
-            // If the current number is greater than target, no point in continuing
-            if (candidates[i] > target) break;
-
-            // Choose the current number
-            cur.add(candidates[i]);
-
-            // Recurse to the next index (i + 1 because each number can be used only once)
-            backtrack(candidates, target - candidates[i], res, cur, i + 1);
-
-            // Backtrack
-            cur.remove(cur.size() - 1);
+        for(int i=ind;i<arr.length;i++){
+            if(i>ind && arr[i]==arr[i-1]) continue;
+            if(arr[i]>target) break;
+            ds.add(arr[i]);
+            printF(i+1,arr,target-arr[i],ans,ds);
+            ds.remove(ds.size()-1);
         }
     }
-
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates); // ✅ Sort to handle duplicates
-        List<List<Integer>> res = new ArrayList<>();
-        backtrack(candidates, target, res, new ArrayList<>(), 0);
-        return res;
+        List<List<Integer>> ans=new ArrayList<>();
+        Arrays.sort(candidates);
+        printF(0,candidates,target,ans,new ArrayList<>());
+        return ans;
+        
     }
 }
