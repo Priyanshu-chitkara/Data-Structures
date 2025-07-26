@@ -1,28 +1,41 @@
 class Solution {
-    public void printS(int n,List<String> res,int open,int closed,StringBuilder sb){
-        if(open==n && closed==n){
-            res.add(sb.toString());
-            return;
+    public void printF(List<String> st,StringBuilder s,int n,int open,int closed){
+          if(open==n && closed==n){
+            st.add(s.toString());
+        }
+         
+        if(open<n){
+              s.append("(");
+            printF(st,s,n,open+1,closed);
+            s.deleteCharAt(s.length()-1);
+          
+            
+
 
         }
-        if(open<n){
-            sb.append("(");
-            printS(n,res,open+1,closed,sb);
-            sb.deleteCharAt(sb.length() - 1);
-        }
+      
+             
+       
+         
         if(closed<open){
-            sb.append(")");
-            printS(n,res,open,closed+1,sb);
-            sb.deleteCharAt(sb.length() - 1);
+             s.append(")");
+             printF(st,s,n,open,closed+1);
+             s.deleteCharAt(s.length()-1);
+           
+            
+           
         }
+       
+             
+      
+       
 
     }
     public List<String> generateParenthesis(int n) {
-        List<String> res=new ArrayList<>();
-        StringBuilder sb = new StringBuilder();
-
-        printS(n,res,0,0,sb);
-        return res;
+        List<String> st=new ArrayList<>();
+        StringBuilder s=new StringBuilder();
+        printF(st,s,n,0,0);
+        return st;
         
     }
 }
