@@ -1,27 +1,23 @@
 class Solution {
     public boolean isBalanced(String num) {
-        int n=num.length();
-        int even_sum=0;
-        int odd_sum=0;
-        for(int i=0;i<n;i++){
-            int ch=num.charAt(i)-'0';
+        int evensum=0;
+        int oddsum=0;
+        for(int i=0;i<num.length();i++){
+            int digit=num.charAt(i)-'0';
             if(i%2==0){
-                even_sum+=ch;
-
-
-            }else{
-                odd_sum+=ch;
-
+                evensum+=digit;
 
             }
-            
-        
-
+            else{
+                oddsum+=digit;
+            }
         }
-        if(even_sum==odd_sum){
-                return true;
-            }
-        return false;
+        if(evensum==oddsum){
+            return true;
+        }
+        else{
+            return false;
+        }
         
     }
 }
