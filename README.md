@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0137-single-number-ii) |
