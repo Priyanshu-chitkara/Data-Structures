@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 ## Linked List
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
