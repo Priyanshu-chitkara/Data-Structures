@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 ## Recursion
 |  |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
