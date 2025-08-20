@@ -1,20 +1,28 @@
 class Solution {
-    public void printF(int [] nums,int ind,List<Integer> cur,List<List<Integer>> res){
+    public void printf(int [] nums,List<List<Integer>> res, List<Integer> st,int ind){
         int n=nums.length;
         if(ind==n){
-            res.add(new ArrayList<>(cur));
-            return;
+             res.add(new ArrayList<>(st));
+             return;
         }
-        cur.add(nums[ind]);
-        printF(nums,ind+1,cur,res);
-        cur.remove(cur.size()-1);
-        printF(nums,ind+1,cur,res);
+          st.add(nums[ind]);
+        printf(nums,res,st,ind+1);
+      
+        st.remove(st.size()-1);
+        printf(nums,res,st,ind+1);
+        
+
     }
-    public List<List<Integer>> subsets(int[] nums) {
+    public List<List<Integer>> subsets(int[] nums){
         List<List<Integer>> res=new ArrayList<>();
-        List<Integer> cur=new ArrayList<>();
-        printF(nums,0,cur,res);
+        List<Integer> st=new ArrayList<>();
+        printf(nums,res,st,0);
         return res;
+
+        
+       
+    }
+       
+        
         
     }
-}
