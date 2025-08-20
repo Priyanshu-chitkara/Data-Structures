@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
