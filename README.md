@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
+| [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -215,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1505-create-target-array-in-the-given-order) |
+| [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
