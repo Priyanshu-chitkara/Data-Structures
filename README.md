@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 ## Array
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
