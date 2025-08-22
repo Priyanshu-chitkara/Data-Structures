@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
