@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->
