@@ -19,7 +19,7 @@ class Solution {
         }
         for(int i=1;i<=num;i++){
             int rev=reverse(i);
-            if(i+reverse(i)==num){
+            if(i+rev==num){
                 return true;
             }
         }
