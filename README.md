@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2491-smallest-even-multiple) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
