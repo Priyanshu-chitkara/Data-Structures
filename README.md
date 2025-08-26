@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0342-power-of-four) |
