@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1817-calculate-money-in-leetcode-bank) |
