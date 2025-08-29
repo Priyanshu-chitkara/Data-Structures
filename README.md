@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2541-sum-of-number-and-its-reverse) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
