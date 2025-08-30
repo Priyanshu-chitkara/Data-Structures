@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0342-power-of-four) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0412-fizz-buzz) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1505-create-target-array-in-the-given-order) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2491-smallest-even-multiple) |
 ## Sliding Window
 |  |
