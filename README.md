@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 ## Tree
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2714-left-and-right-sum-differences) |
+| [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
+| [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
