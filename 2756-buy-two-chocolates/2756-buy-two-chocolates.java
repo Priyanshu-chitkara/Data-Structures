@@ -1,30 +1,13 @@
+import java.util.Arrays;
+
 class Solution {
     public int buyChoco(int[] prices, int money) {
-       int n=prices.length;
-     
-      Arrays.sort(prices);
-      if((prices[0]+prices[1])>money){
-        return money;
-      }
+        Arrays.sort(prices); // sort prices ascending
+        int cost = prices[0] + prices[1]; // two cheapest
 
-     
-
-       
-
-      int count=1;
-      
-        for(int i=0;i<n;i++){
-            if(prices[i]<=money && count<=2){
-                money=money-prices[i];
-                if(money<=0){
-                    return 0;
-                }
-                
-            }
-            count++;
+        if (cost > money) {
+            return money; // cannot buy
         }
-      
-       
-       return money;
+        return money - cost; // leftover money after buying
     }
 }
