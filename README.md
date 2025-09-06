@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0217-contains-duplicate) |
@@ -296,11 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0204-count-primes) |
 | [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2491-smallest-even-multiple) |
 ## Sliding Window
