@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0507-perfect-number) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
+| [0343-integer-break](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
 ## Counting
