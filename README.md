@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0078-subsets) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0215-kth-largest-element-in-an-array) |
