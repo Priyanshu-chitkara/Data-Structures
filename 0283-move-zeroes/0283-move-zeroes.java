@@ -6,13 +6,11 @@ class Solution {
             if(nums[i]!=0){
                 nums[index]=nums[i];
                 index++;
-            }
-            
-        }
-        while(index<n){
-            nums[index]=0;
-            index++;
 
+            }
+        }
+        for(int i=index;i<n;i++){
+            nums[i]=0;
         }
         
     }
