@@ -6,7 +6,6 @@ class Solution {
             if(nums[i]!=nums[i-1]){
                 nums[index]=nums[i];
                 index++;
-
             }
         }
         return index;
