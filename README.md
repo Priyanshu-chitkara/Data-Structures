@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
