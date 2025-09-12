@@ -9,18 +9,13 @@ class Solution {
 
             }
         }
-        if(count%2==0 && count>0){
-            return true;
-        }
-        else if(count==0){
-            return false;
-        }
-        else if(count%2!=0 && (1<=count && count<1000000)){
+        if(count>0){
             return true;
         }
         else{
             return false;
         }
+        
         
     }
 }
