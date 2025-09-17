@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
