@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
 | [0944-smallest-range-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
