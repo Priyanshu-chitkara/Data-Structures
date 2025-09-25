@@ -3,7 +3,7 @@ class Solution {
         int sum=0;
         int n=nums.length;
         for(int i=0;i<n;i++){
-            sum+=(nums[i]+divisor-1)/divisor; 
+            sum+=(int)Math.ceil((double)nums[i]/divisor); 
         }
         return sum;
 
