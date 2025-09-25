@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 ## Tree
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
@@ -393,5 +397,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0292-nim-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
