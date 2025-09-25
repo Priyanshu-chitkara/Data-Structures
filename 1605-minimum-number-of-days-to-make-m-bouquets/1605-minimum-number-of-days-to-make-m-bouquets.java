@@ -1,56 +1,72 @@
 class Solution {
-    public static int minimum(int [] bloomday){
-        int n=bloomday.length;
-        int min=bloomday[0];
+    public int minimum(int[] arr){
+        int n=arr.length;
+        int x=arr[0];
         for(int i=1;i<n;i++){
-            if(min>bloomday[i]){
-                min=bloomday[i];
+            if(x>arr[i]){
+                x=arr[i];
             }
         }
-        return min;
+        return x;
+
     }
-    public static int maximum(int [] bloomday){
-        int n=bloomday.length;
-        int max=bloomday[0];
+    public int maximum(int [] arr){
+          int n=arr.length;
+          int y=arr[0];
         for(int i=1;i<n;i++){
-            if(max<bloomday[i]){
-                max=bloomday[i];
+            if(y<arr[i]){
+                y=arr[i];
             }
         }
-        return max;
+        return y;
+
+
     }
-    public static int isPossible(int [] arr,int day,int target){
+    public int possible(int[] arr,int bq,int days){
+        int n=arr.length;
         int count=0;
-        int nob=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]<=day){
+        int b=0;
+
+        for(int i=0;i<n;i++){
+            if(days>=arr[i]){
                 count++;
             }
             else{
-                nob+=(count/target);
+                b+=(count/bq);
                 count=0;
+
             }
+            
+            
+
         }
-        nob+=(count/target);
-        return nob;
+        b+=(count/bq);
+        return b;
+
     }
-    
+
     public int minDays(int[] bloomDay, int m, int k) {
-        int s=minimum(bloomDay);
-        int e=maximum(bloomDay);
+        int x=minimum(bloomDay);
+        int y=maximum(bloomDay);
+        int low=x;
+        int high=y;
         int ans=-1;
-        while(s<=e){
-            int mid=s+(e-s)/2;
-            int numberofBouquets=isPossible(bloomDay,mid,k);
-            if(numberofBouquets>=m){
-                ans=mid;
-                e=mid-1;
+        while(low<=high){
+            int days=(low+high)/2;
+            int nob=possible(bloomDay,k,days);
+            if(nob>=m){
+                ans=days;
+                high=days-1;
+
             }
             else{
-                s=mid+1;
+                low=days+1;
             }
+
+
         }
         return ans;
+
         
     }
 }
