@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0944-smallest-range-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
