@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
+| [1791-richest-customer-wealth](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -420,4 +421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0898-transpose-matrix) |
+| [1791-richest-customer-wealth](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
