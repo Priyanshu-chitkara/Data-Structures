@@ -24,7 +24,6 @@ class Solution {
         while(!st.isEmpty()){
             int size=st.size();
             ArrayList<Integer> list=new ArrayList<>();
-
             for(int i=0;i<size;i++){
                 TreeNode node=st.poll();
                 list.add(node.val);
@@ -34,7 +33,6 @@ class Solution {
                 if(node.right!=null){
                     st.add(node.right);
                 }
-
             }
             result.add(list);
         }
