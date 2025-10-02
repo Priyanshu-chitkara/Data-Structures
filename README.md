@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1293-three-consecutive-odds](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1293-three-consecutive-odds) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1421-find-numbers-with-even-number-of-digits) |
