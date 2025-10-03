@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
