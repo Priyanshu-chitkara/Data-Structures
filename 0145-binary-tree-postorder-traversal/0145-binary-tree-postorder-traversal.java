@@ -14,14 +14,27 @@
  * }
  */
 class Solution {
-    List<Integer> list=new ArrayList<>();
     public List<Integer> postorderTraversal(TreeNode root) {
+        Stack<TreeNode> st=new Stack<TreeNode>();
+        Stack<TreeNode> st1=new Stack<TreeNode>();
+        List<Integer> list=new ArrayList<>();
         if(root==null){
-            return new ArrayList<>();
+            return list;
         }
-        postorderTraversal(root.left);
-        postorderTraversal(root.right);
-        list.add(root.val);
+        st.push(root);
+        while(!st.isEmpty()){
+            root=st.pop();
+            st1.add(root);
+            if(root.left!=null){
+                st.push(root.left);
+            }
+            if(root.right!=null){
+                st.push(root.right);
+            }
+        }
+        while(!st1.isEmpty()){
+            list.add(st1.pop().val);
+        }
         return list;
 
         
