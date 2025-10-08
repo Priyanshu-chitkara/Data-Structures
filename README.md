@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2714-left-and-right-sum-differences](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
