@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public boolean isMirror(TreeNode p,TreeNode q){
+    public boolean symmetric(TreeNode p,TreeNode q){
         if(p==null && q==null){
             return true;
         }
@@ -24,13 +24,12 @@ class Solution {
         if(p.val!=q.val){
             return false;
         }
-        return isMirror(p.left,q.right) && isMirror(p.right,q.left);
+        return symmetric(p.left,q.right) && symmetric(p.right,q.left);
     }
+    
+   
     public boolean isSymmetric(TreeNode root) {
-        TreeNode p=root;
-        TreeNode q=root;
-       return  isMirror(p,q);
-        
+        return symmetric(root.left,root.right);
         
     }
 }
