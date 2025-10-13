@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
