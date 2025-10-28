@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-    int diameter=0;
+    int dia=0;
     public int func(TreeNode root){
-        
         if(root==null){
             return 0;
         }
         int left=func(root.left);
         int right=func(root.right);
-        diameter=Math.max(diameter,left+right);
-        return Math.max(left,right)+1;
-       
+        dia=Math.max(left+right,dia);
+        return 1+Math.max(left,right);
+
     }
-    
+
     public int diameterOfBinaryTree(TreeNode root) {
-        func(root);
-       
-       return diameter;
+        int ans=func(root);
+        return dia;
         
     }
 }
