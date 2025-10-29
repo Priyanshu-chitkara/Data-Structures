@@ -14,23 +14,20 @@
  * }
  */
 class Solution {
-    public boolean func(TreeNode root,int targetSum){
+    int total=0;
+    public boolean ans(TreeNode root,int targetSum){
         if(root==null){
             return false;
         }
         targetSum-=root.val;
-        if(root.left==null && root.right==null){
+        if(root.right==null && root.left==null){
             return targetSum==0;
         }
-        // int left=func(root.left,targetSum);
-        // int right=func(root.right,targetSum);
-        return func(root.left,targetSum) || func(root.right,targetSum);
-        
+        return ans(root.right,targetSum) || ans(root.left,targetSum);
     }
     public boolean hasPathSum(TreeNode root, int targetSum) {
+       return  ans(root,targetSum);
         
-       return func(root,targetSum);
-      
         
     }
 }
