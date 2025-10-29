@@ -14,22 +14,24 @@
  * }
  */
 class Solution {
-    public boolean symmetric(TreeNode p,TreeNode q){
-        if(p==null && q==null){
-            return true;
-        }
-        if(p==null || q==null){
-            return false;
-        }
-        if(p.val!=q.val){
-            return false;
-        }
-        return symmetric(p.left,q.right) && symmetric(p.right,q.left);
+   public boolean isansr(TreeNode q1,TreeNode q2){
+    if(q1==null && q2==null){
+        return true;
     }
-    
+    if(q1==null || q2==null){
+        return false;
+    }
+    if(q1.val!=q2.val){
+        return false;
+    }
+
+
    
+    return isansr(q1.left,q2.right) && isansr(q1.right,q2.left);
+   }
+  
     public boolean isSymmetric(TreeNode root) {
-        return symmetric(root.left,root.right);
+        return isansr(root.left,root.right);
         
     }
 }
