@@ -20,14 +20,13 @@ class Solution {
         }
         int left=balanced(root.left);
         int right=balanced(root.right);
-        if(Math.abs(left-right)>1 || left==-1 | right==-1){
+        if(Math.abs(left-right)>1 || left==-1 || right==-1){
             return -1;
-
         }
         return 1+Math.max(left,right);
     }
     public boolean isBalanced(TreeNode root) {
-        return balanced(root)!=-1;
+       return -1!=balanced(root);
         
     }
 }
