@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
-    public int balanced(TreeNode root){
+    public int ans(TreeNode root){
         if(root==null){
             return 0;
         }
-        int left=balanced(root.left);
-        int right=balanced(root.right);
+        int left=ans(root.left);
+        int right=ans(root.right);
         if(Math.abs(left-right)>1 || left==-1 || right==-1){
             return -1;
         }
         return 1+Math.max(left,right);
     }
     public boolean isBalanced(TreeNode root) {
-       return -1!=balanced(root);
+        return ans(root)!=-1;
         
     }
 }
