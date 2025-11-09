@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
