@@ -13,43 +13,45 @@
  *     }
  * }
  */
-class Pair{
-    TreeNode node;
+ class Pair{
     int vertical;
+    TreeNode val;
     int line;
-    Pair(TreeNode n,int v,int l){
-        this.node = n;
-        this.vertical = v;
-        this.line = l;
+    Pair(int v,TreeNode v1,int l){
+        this.vertical=v;
+        this.val=v1;
+        this.line=l;
     }
-}
+ }
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         List<List<Integer>> ls=new ArrayList<>();
-        TreeMap<Integer,TreeMap<Integer,ArrayList<Integer>>> map=new TreeMap<>();
+        if(root==null){
+            return ls;
+        }
+        TreeMap<Integer,TreeMap<Integer,ArrayList<Integer>>> mp=new TreeMap<>();
         Queue<Pair> que=new LinkedList<>();
-        que.offer(new Pair(root,0,0));
+        que.offer(new Pair(0,root,0));
         while(!que.isEmpty()){
             Pair p=que.poll();
-            TreeNode node=p.node;
             int vertical=p.vertical;
-            int line = p.line;
-            
-            if(!map.containsKey(vertical)){
-                map.put(vertical,new TreeMap<>());
+            TreeNode res=p.val;
+            int horz=p.line;
+            if(!mp.containsKey(vertical)){
+                mp.put(vertical,new TreeMap<>());
             }
-            if(!map.get(vertical).containsKey(line)){
-                map.get(vertical).put(line,new ArrayList<>());
-            }
-            map.get(vertical).get(line).add(node.val);
-
-            if(node.left!=null) que.offer(new Pair(node.left,vertical-1,line+1));
-            if(node.right!=null) que.offer(new Pair(node.right,vertical+1,line+1));
+           if(!mp.get(vertical).containsKey(horz)){
+            mp.get(vertical).put(horz,new ArrayList<>());
+           }
+           mp.get(vertical).get(horz).add(res.val);
+           if(res.left!=null){
+            que.offer(new Pair(vertical-1,res.left,horz+1));
+           }
+            if(res.right!=null){
+            que.offer(new Pair(vertical+1,res.right,horz+1));
+           }
         }
-
-                // List<List<Integer>> ls=new ArrayList<>();
-        
-        for(TreeMap<Integer,ArrayList<Integer>> mpp : map.values()){
+        for(TreeMap<Integer,ArrayList<Integer>> mpp : mp.values()){
             ls.add(new ArrayList<>());
             for(ArrayList<Integer> list : mpp.values
             ()){
@@ -60,5 +62,6 @@ class Solution {
         }
 
         return ls;
+        
     }
 }
