@@ -1,21 +1,21 @@
 class Solution {
-    public int printF(int [] dp,int n){
-        if(n==1) return 1;
-        if(n==2) return 2;
-        int prev=2;
-        int prev2=1;
-        for(int i=3;i<=n;i++){
-            int cur=prev+prev2;
-            prev2=prev;
-            prev=cur;
-        }
-        return prev;
-        
-    }
     public int climbStairs(int n) {
-        int [] dp=new int [n+1];
-       return  printF(dp,n);
-        
+        int count=0;
+        if(n<=1){
+            return 1;
+        }
+        //tabulation
+        int [] dp=new int[n+1];
+        dp[1]=1;
+        dp[0]=1;
+        int sum=0;
+        for(int i=2;i<=n;i++){
+            dp[i]=dp[i-2]+dp[i-1];
+            sum=dp[i];
+
+        }
+        return sum;
+
         
     }
 }
