@@ -5,16 +5,22 @@ class Solution {
             return 1;
         }
         //tabulation
-        int [] dp=new int[n+1];
-        dp[1]=1;
-        dp[0]=1;
-        int sum=0;
+        // int [] dp=new int[n+1];
+        // dp[1]=1;
+        // dp[0]=1;
+        int prev1=1;
+        int prev=1;
+        int curr=0;
         for(int i=2;i<=n;i++){
-            dp[i]=dp[i-2]+dp[i-1];
-            sum=dp[i];
+            curr=prev+prev1;
+            prev1=prev;
+            prev=curr;
+
+            // dp[i]=dp[i-2]+dp[i-1];
+         
 
         }
-        return sum;
+        return curr;
 
         
     }
