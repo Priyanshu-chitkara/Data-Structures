@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2491-smallest-even-multiple) |
