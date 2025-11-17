@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0389-find-the-difference) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0367-valid-perfect-square) |
