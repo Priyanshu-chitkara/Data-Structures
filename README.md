@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3636-check-balanced-string) |
 ## Trie
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1806-count-of-matches-in-tournament](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1806-count-of-matches-in-tournament) |
