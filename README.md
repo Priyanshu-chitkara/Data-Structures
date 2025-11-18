@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
