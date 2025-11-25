@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0860-lemonade-change) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0860-lemonade-change) |
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
 | [0898-transpose-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
