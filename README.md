@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0860-lemonade-change) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
 | [0944-smallest-range-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1293-three-consecutive-odds) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
