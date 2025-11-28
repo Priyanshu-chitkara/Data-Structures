@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0860-lemonade-change) |
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
 | [0944-smallest-range-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0944-smallest-range-i) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0881-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
