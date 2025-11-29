@@ -1,8 +1,8 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        Arrays.sort(nums);
+      
         int sum=0;
-        int op=0;
+        
         for(int l:nums){
             sum+=l;
         }
@@ -13,14 +13,8 @@ class Solution {
 
             return sum;
         }
-        while(sum>=k && sum%k>=0){
-            sum=sum%k;
-            op+=sum;
-
-
-
-        }
-        return op;
+       
+        return sum%k;
 
         
     }
