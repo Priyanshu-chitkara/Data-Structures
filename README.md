@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
