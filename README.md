@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
 | [0860-lemonade-change](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0860-lemonade-change) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
