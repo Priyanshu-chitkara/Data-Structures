@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0605-can-place-flowers) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0343-integer-break) |
+| [0494-target-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0747-min-cost-climbing-stairs) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
