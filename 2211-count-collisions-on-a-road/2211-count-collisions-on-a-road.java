@@ -1,0 +1,17 @@
+class Solution {
+    public int countCollisions(String directions) {
+        int n=directions.length();
+        int i=0;
+        int j=n-1;
+        int cnt=0;
+        while(i<n && directions.charAt(i)=='L')i++;
+        while(j>=0 && directions.charAt(j)=='R')j--;
+        for(int x=i;x<=j;x++){
+            if(directions.charAt(x)!='S'){
+                cnt++;
+            }
+        }
+        return cnt;
+        
+    }
+}
