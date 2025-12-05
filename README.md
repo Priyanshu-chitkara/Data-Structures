@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0070-climbing-stairs) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -678,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
