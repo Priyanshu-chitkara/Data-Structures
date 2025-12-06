@@ -1,23 +1,26 @@
 class Solution {
-    public void f(int[] nums, int n, int target, int i, int ans, int[] arr) {
-        if (n == i) {
-            if (ans == target) {
-                arr[0]++;
-                
-
-            }
-            return;
+    public void f(int [] nums,int target,int ans,int i,int n,int[] arr){
+       if(i==n){
+        if(ans==target){
+            arr[0]++;
 
         }
-        f(nums, n, target, i + 1, ans + nums[i], arr);
-        f(nums, n, target, i + 1, ans - nums[i], arr);
+        return;
+        
+       }
+       
+       
+        f(nums,target,ans+nums[i],i+1,n,arr);
+        f(nums,target,ans-nums[i],i+1,n,arr);
+
+        
+
     }
-
     public int findTargetSumWays(int[] nums, int target) {
-        int[] arr = new int[1];
-        int n = nums.length;
-        f(nums, n, target, 0, 0, arr);
+        int n=nums.length;
+        int [] arr=new int[1];
+        f(nums,target,0,0,n,arr);
         return arr[0];
-
+        
     }
 }
