@@ -1,7 +1,7 @@
 class Solution {
-    public boolean isSafe(int row,int col,int n,char[][] board){
-        for(int i=0;i<n;i++){
-            if(board[i][col]=='Q') return false;
+    public boolean isSafe(char[][] board,int row,int col,int n){
+        for(int j=0;j<n;j++){
+            if(board[j][col]=='Q') return false;
         }
         for(int i=row,j=col;i>=0 && j>=0;i--,j--){
             if(board[i][j]=='Q') return false;
@@ -9,40 +9,43 @@ class Solution {
         for(int i=row,j=col;i>=0 && j<n;i--,j++){
             if(board[i][j]=='Q') return false;
         }
+
         return true;
 
+
     }
-    public void f(int row,int n,char [][] board,List<List<String>> ls){
+    public void f(int n,char[][] board,int row,List<List<String>> res){
         if(row==n){
-            List<String> rs = new ArrayList<>();
+             List<String> ls=new ArrayList<>();
             for(char [] ch:board){
-                rs.add(new String(ch));
+               
+                ls.add(new String(ch));
+
             }
-            ls.add(new ArrayList<>(rs));
+            
+           
+           
+            res.add(ls);
             return;
         }
-        
         for(int j=0;j<n;j++){
-            if(isSafe(row,j,n,board)){
+            if(isSafe(board,row,j,n)){
                 board[row][j]='Q';
-                f(row+1,n,board,ls);
+                f(n,board,row+1,res);
                 board[row][j]='.';
+
             }
-
-
-          
         }
-        
-
     }
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> ls=new ArrayList<>();
-        char [] [] board=new char[n][n];
+        List<List<String>> res=new LinkedList<>();
+        char [][] board=new char[n][n];
         for(char [] ch:board){
             Arrays.fill(ch,'.');
         }
-        f(0,n,board,ls);
-        return ls;
+        f(n,board,0,res);
+
+        return res;
         
     }
 }
