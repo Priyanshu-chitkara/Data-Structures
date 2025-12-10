@@ -1,23 +1,33 @@
 class Solution {
-    public void printF(int [] candidates,int target,List<List<Integer>> res,List<Integer> cur,int ind,int sum){
+    public void f(int[] candidates, List<List<Integer>> list, List<Integer> ls, int target, int ind) {
         int n=candidates.length;
-        if(target==sum){
-            res.add(new ArrayList<>(cur));
+        if (target == 0) {
+            list.add(new ArrayList<>(ls));
             return;
         }
-        if(target<sum || ind>n-1){
+        if(ind==n){
             return;
         }
-        cur.add(candidates[ind]);
-        printF(candidates,target,res,cur,ind,sum+candidates[ind]);
-        cur.remove(cur.size()-1);
-        printF(candidates,target,res,cur,ind+1,sum);
+        
+        if (target >= 0) {
+            ls.add(candidates[ind]);
+            f(candidates, list, ls, target - candidates[ind], ind);
+            ls.remove(ls.size() - 1);
+
+        }
+
+        
+
+        f(candidates, list, ls, target, ind + 1);
 
     }
+
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> res=new ArrayList<>();
-        List<Integer> cur=new ArrayList<>();
-        printF(candidates,target,res,cur,0,0);
-        return res;
+        List<List<Integer>> list = new ArrayList<>();
+        List<Integer> ls = new ArrayList<>();
+        int n = candidates.length;
+        f(candidates, list, ls, target, 0);
+        return list;
+
     }
 }
