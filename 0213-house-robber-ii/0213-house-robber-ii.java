@@ -1,42 +1,37 @@
 class Solution {
-    public int f(List<Integer> ls,int i,int n,int [] dp){
-        if(i>=n-1){
+    public int f(int [] nums1,int ind,int n){
+        if(ind>n-1){
             return 0;
         }
-        if(dp[i]!=-1){
-            return dp[i];
-        }
+        int pk=nums1[ind]+f(nums1,ind+2,n);
+        int npk=f(nums1,ind+1,n);
+        return Math.max(pk,npk);
 
-        int pick=ls.get(i)+f(ls,i+2,n,dp);
-        
-        int npick=f(ls,i+1,n,dp);
-        int res=Math.max(pick,npick);
-        return dp[i]=res;
+    }
+     public int f1(int [] nums2,int ind,int n){
+        if(ind>n-1){
+            return 0;
+        }
+        int pk=nums2[ind]+f1(nums2,ind+2,n);
+        int npk=f(nums2,ind+1,n);
+        return Math.max(pk,npk);
+
     }
     public int rob(int[] nums) {
         int n=nums.length;
-        if(n==1){
-            return nums[0];
+        int [] nums1=new int[n-1];
+        int [] nums2=new int[n-1];
+        for(int i=0;i<nums1.length;i++){
+            nums1[i]=nums[i];
         }
-        int [] dp=new int[n+1];
-        List<Integer> ls=new ArrayList<>();
-        List<Integer> ls1=new ArrayList<>();
+        for(int i=0;i<nums2.length;i++){
+            nums2[i]=nums[i+1];
+        }
+        int res1=f(nums1,0,n-1);
+        int res2=f1(nums2,0,n-1);
+        int ans=Math.max(res1,res2);
+        return ans;
 
-        for(int i=0;i<n;i++){
-            if(i>0){
-                ls.add(nums[i]);
-            }
-            if(i<n-1){
-                ls1.add(nums[i]);
-            }
-        }
-        Arrays.fill(dp,-1);
-       int ans= f(ls,0,n,dp);
-       Arrays.fill(dp,-1);
-       int rans=f(ls1,0,n,dp);
-       int fans=Math.max(ans,rans);
-       return fans;
-       
-    
+        
     }
 }
