@@ -1,26 +1,25 @@
 class Solution {
-    public int f(int i,int j,int m,int n,int [] [] dp){
-        if(i==m-1 && j==n-1){
+    public int f(int row,int col,int [][] dp){
+        if(row==0 && col==0){
             return 1;
         }
-        if(i>m || j>n){
+        if(row<0 || col<0){
             return 0;
         }
-        if(dp[i][j]!=-1){
-            return dp[i][j];
+        if(dp[row][col]!=-1){
+            return dp[row][col];
         }
-        int row= f(i,j+1,m,n,dp);
-        int col=f(i+1,j,m,n,dp);
-        return dp[i][j]=row+col;
-
+        int left=f(row,col-1,dp);
+        int right=f(row-1,col,dp);
+        return dp[row][col]=left+right;
     }
     public int uniquePaths(int m, int n) {
-        int [][] dp=new int[m+1][n+1];
+        int [][] dp=new int[m][n];
         for(int [] arr:dp){
             Arrays.fill(arr,-1);
         }
-
-        dp[m][n]=f(0,0,m,n,dp);
-        return dp[m][n];
+        int ans=f(m-1,n-1,dp);
+        return ans;
+        
     }
 }
