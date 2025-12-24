@@ -1,37 +1,40 @@
 class Solution {
-    public boolean f(int[] nums, int target, int ind, int n,Boolean[][] dp) {
-        if(target==0) return true;
-        if (ind == n) {
-            if (target == 0) {
+    public boolean f(int [] nums,int n,int sum,int ind,Boolean [][] dp){
+        
+            if(sum==0){
                 return true;
             }
-            else return false;
-
+            if(ind==n || sum<0) return false;
+        
+        boolean pk=false;
+        if(dp[ind][sum]!=null){
+            return dp[ind][sum];
         }
-        if(target < 0)return false;
-        if(dp[ind][target]!=null){
-            return dp[ind][target];
-        }
-        boolean pick=false;
-        if(target>=nums[ind]){
-             pick = f(nums, target - nums[ind], ind + 1, n,dp);
-        }
+        
+if(sum>0){
+    pk=f(nums,n,sum-nums[ind],ind+1,dp);
 
-       
-        boolean npick=f(nums, target, ind + 1, n,dp);
-        return  dp[ind][target]=pick|| npick;
-
+}
+        
+        boolean npk=f(nums,n,sum,ind+1,dp);
+        return dp[ind][sum]=pk || npk;
     }
-
     public boolean canPartition(int[] nums) {
-        int n = nums.length;
-        int s = 0;
-        for (int k : nums) {
-            s += k;
+        int sum=0;
+        for(int s:nums){
+            sum+=s;
+
         }
-        if (s % 2 != 0)
+        if(sum%2!=0){
             return false;
-        Boolean [][] dp=new Boolean[n][s/2+1];
-        return f(nums, s / 2, 0, n,dp);
+        }
+        
+        
+        int n=nums.length;
+        Boolean[][] dp=new Boolean[n][sum/2+1];
+       
+        boolean ans=f(nums,n,sum/2,0,dp);
+       return ans;
+        
     }
 }
