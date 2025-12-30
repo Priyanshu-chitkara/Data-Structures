@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0060-permutation-sequence) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0898-transpose-matrix) |
