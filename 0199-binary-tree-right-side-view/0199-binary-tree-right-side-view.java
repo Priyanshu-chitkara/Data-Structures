@@ -22,10 +22,9 @@ class Solution {
         Queue<TreeNode> que=new LinkedList<>();
         que.offer(root);
         while(!que.isEmpty()){
-          
             int n=que.size();
             for(int i=0;i<n;i++){
-                  TreeNode node=que.poll();
+                TreeNode node=que.poll();
                 if(i==n-1){
                     ls.add(node.val);
                 }
