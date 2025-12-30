@@ -20,11 +20,12 @@ class Solution {
         }
         if(root!=null && root.left==null && root.right==null){
             if(targetSum==root.val){
-                return true;
-
-            }
+            return true;
         }
-        return hasPathSum(root.left,targetSum-root.val) || hasPathSum(root.right,targetSum-root.val);
         
+
+        }
+        
+        return hasPathSum(root.left,targetSum-root.val) || hasPathSum(root.right,targetSum-root.val);
     }
 }
