@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0179-largest-number) |
