@@ -1,21 +1,21 @@
 class Solution {
-    public void f(List<List<Integer>> res,List<Integer> ls,int n,int ind,int[] nums){
-        if(ind==n){
+    public void f(int [] nums,List<List<Integer>> res,List<Integer> ls,int ind){
+        if(ind==nums.length){
             res.add(new ArrayList<>(ls));
             return;
         }
         ls.add(nums[ind]);
-        f(res,ls,n,ind+1,nums);
+        f(nums,res,ls,ind+1);
         ls.remove(ls.size()-1);
-        f(res,ls,n,ind+1,nums);
+        
+        f(nums,res,ls,ind+1);
         
 
     }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
         List<Integer> ls=new ArrayList<>();
-        int n=nums.length;
-        f(res,ls,n,0,nums);
+        f(nums,res,ls,0);
         return res;
         
     }
