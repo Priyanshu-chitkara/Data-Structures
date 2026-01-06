@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1143-longest-common-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2211-count-collisions-on-a-road](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2211-count-collisions-on-a-road) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1143-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
