@@ -16,9 +16,11 @@ class Solution {
         TreeNode cur=root;
         if(cur.val>p.val && cur.val>q.val){
             return lowestCommonAncestor(root.left,p,q);
+
         }
         if(cur.val<p.val && cur.val<q.val){
             return lowestCommonAncestor(root.right,p,q);
+
         }
         return root;
         
