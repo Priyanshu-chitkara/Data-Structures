@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1293-three-consecutive-odds) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1390-four-divisors) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1646-kth-missing-positive-number) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0898-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0931-minimum-falling-path-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1791-richest-customer-wealth) |
 ## Binary Search Tree
 |  |
