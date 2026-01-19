@@ -1,30 +1,19 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        // Convert to lowercase
-        s = s.toLowerCase();
-
-        // Use two pointers
-        int left = 0, right = s.length() - 1;
-
-        while (left < right) {
-            // Skip non-alphanumeric from left
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
-                left++;
+        int n=s.length();
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            if(Character.isLetterOrDigit(ch)){
+                
+                sb.append(Character.toLowerCase(ch));
             }
-            // Skip non-alphanumeric from right
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
-                right--;
-            }
-
-            // Compare characters
-            if (s.charAt(left) != s.charAt(right)) {
-                return false;
-            }
-
-            left++;
-            right--;
         }
+        String si=sb.toString();
+        String a=sb.reverse().toString();
+        return si.equals(a);
 
-        return true;
+
+        
     }
 }
