@@ -5,9 +5,9 @@ class Solution {
                 res.add(new ArrayList<>(ls));
             return;
         }
-        // if (ls.size() > k) {
-        //     return;
-        // }
+        if (ls.size() > k) {
+            return;
+        }
         if(val>9){
             return;
         }
