@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0051-n-queens) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0088-merge-sorted-array) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0077-combinations) |
