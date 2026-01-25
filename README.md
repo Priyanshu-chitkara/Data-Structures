@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3644-minimum-positive-sum-subarray) |
 ## Queue
