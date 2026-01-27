@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0383-ransom-note) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0617-merge-two-binary-trees) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0797-all-paths-from-source-to-target) |
 ## Divide and Conquer
