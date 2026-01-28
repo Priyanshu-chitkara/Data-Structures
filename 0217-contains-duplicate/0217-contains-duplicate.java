@@ -1,18 +1,15 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        int count=0;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i-1]==nums[i]){
-                count++;
-
+        HashMap<Integer,Integer> mp=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
+        }
+        for(int val:mp.values()){
+            if(val>1){
+                return true;
             }
         }
-        if(count>=1){
-            return true;
-        }else{
-            return false;
-        }
+        return false;
         
     }
 }
