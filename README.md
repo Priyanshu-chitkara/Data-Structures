@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3379-transformed-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2288-count-operations-to-obtain-zero) |
 | [3336-water-bottles-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3379-transformed-array) |
 ## Enumeration
 |  |
 | ------- |
