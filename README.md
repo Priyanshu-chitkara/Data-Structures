@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3074-apple-redistribution-into-boxes) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3634-minimum-removals-to-balance-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3644-minimum-positive-sum-subarray) |
 ## Queue
 |  |
