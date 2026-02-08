@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0268-missing-number) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
