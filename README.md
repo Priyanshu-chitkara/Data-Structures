@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1470-shuffle-the-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
