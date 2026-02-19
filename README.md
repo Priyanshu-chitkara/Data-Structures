@@ -802,4 +802,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0841-keys-and-rooms) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
