@@ -1,36 +1,40 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-
-        if (s.length() != t.length()) {
+        int n=s.length();
+        int m=t.length();
+        if(n!=m){
             return false;
         }
-
-        HashMap<Character, Character> mp = new HashMap<>();  // s → t
-        HashMap<Character, Character> mpp = new HashMap<>(); // t → s
-
-        for (int i = 0; i < s.length(); i++) {
-            char ch1 = s.charAt(i);
-            char ch2 = t.charAt(i);
-
-            // Check existing mapping s -> t
-            if (mp.containsKey(ch1)) {
-                if (mp.get(ch1) != ch2) {
-                    return false; // inconsistent mapping
-                }
-            } else {
-                mp.put(ch1, ch2); // create new mapping
+        HashMap<Character,Character> mp=new HashMap<>();
+        HashMap<Character,Character> mpp=new HashMap<>();
+        for(int i=0;i<n;i++){
+           if(mp.containsKey(s.charAt(i))){
+            if(mp.get(s.charAt(i))==t.charAt(i)){
+                continue;
             }
-
-            // Check reverse mapping t -> s
-            if (mpp.containsKey(ch2)) {
-                if (mpp.get(ch2) != ch1) {
-                    return false; // inconsistent reverse mapping
+            else{
+                return false;
+            }
+           }
+           else{
+            mp.put(s.charAt(i),t.charAt(i));
+           }
+        }
+        for(int j=0;j<m;j++){
+            if(mpp.containsKey(t.charAt(j))){
+                if(mpp.get(t.charAt(j))==s.charAt(j)){
+                    continue;
                 }
-            } else {
-                mpp.put(ch2, ch1); // create new reverse mapping
+                else{
+                    return false;
+                }
+            }
+            else{
+                mpp.put(t.charAt(j),s.charAt(j));
             }
         }
-
+       
         return true;
+
     }
 }
