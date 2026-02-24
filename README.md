@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2211-count-collisions-on-a-road](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2211-count-collisions-on-a-road) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3462-vowels-game-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3462-vowels-game-in-a-string) |
 | [3636-check-balanced-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3636-check-balanced-string) |
 ## Trie
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2756-buy-two-chocolates](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2756-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3074-apple-redistribution-into-boxes) |
 ## Tree
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0875-longest-mountain-in-array) |
 | [2037-count-square-sum-triples](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2037-count-square-sum-triples) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Number Theory
 |  |
