@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
+| [0796-rotate-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0796-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1143-longest-common-subsequence) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0796-rotate-string) |
 ## Union Find
 |  |
 | ------- |
