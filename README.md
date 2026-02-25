@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2211-count-collisions-on-a-road) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0605-can-place-flowers) |
@@ -837,4 +840,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
