@@ -7,14 +7,12 @@ class Solution {
                 nums[ind]=nums[i];
                 ind++;
             }
+            
+
         }
         for(int i=ind;i<n;i++){
             nums[i]=0;
         }
-        
-       
-        
-
         
     }
 }
