@@ -862,4 +862,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0402-remove-k-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
