@@ -1,33 +1,36 @@
 class Solution {
-
-    public int subarraysWithKDistinct(int[] nums, int k) {
-        return atMost(nums,k) - atMost(nums,k-1);
-    }
-
-    public int atMost(int[] nums,int k){
-
-        int l = 0;
-        int ans = 0;
-
-        HashMap<Integer,Integer> mp = new HashMap<>();
-
-        for(int r=0;r<nums.length;r++){
-
-            mp.put(nums[r], mp.getOrDefault(nums[r],0)+1);
-
-            while(mp.size() > k){
-
-                mp.put(nums[l], mp.get(nums[l])-1);
-
-                if(mp.get(nums[l]) == 0)
-                    mp.remove(nums[l]);
-
-                l++;
-            }
-
-            ans += r - l + 1;
+    public int subarray(int [] nums,int goal){
+        if(goal<0){
+            return 0;
         }
+        HashMap<Integer,Integer> mp=new HashMap<>();
+        int l=0;
+        int r=0;
+        int n=nums.length;
+        int cnt=0;
+        while(r<n){
+            int curcount=mp.getOrDefault(nums[r],0);
+            mp.put(nums[r],curcount+1);
+            while(mp.size()>goal){
+                if(mp.get(nums[l])==1){
+                    mp.remove(nums[l]);
+                }
+                else{
+                    mp.put(nums[l],mp.get(nums[l])-1);
+                }
+                l++;
 
-        return ans;
+            }
+            cnt+=r-l+1;
+            r++;
+        }
+        return cnt;
+
+    }
+    public int subarraysWithKDistinct(int[] nums, int k) {
+        int c1=subarray(nums,k);
+        int c2=subarray(nums,k-1);
+        return c1-c2;
+        
     }
 }
