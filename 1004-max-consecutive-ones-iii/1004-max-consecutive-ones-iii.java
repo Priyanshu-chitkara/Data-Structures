@@ -3,9 +3,10 @@ class Solution {
         int n=nums.length;
         int l=0;
         int r=0;
-        int ans=0;
         int cnt=0;
+        int ans=0;
         while(r<n){
+            
             if(nums[r]==0){
                 cnt++;
 
@@ -15,11 +16,17 @@ class Solution {
                     cnt--;
                 }
                 l++;
+
+
+
             }
-            ans=Math.max(ans,r-l+1);
+            int wind_size=r-l+1;
+            ans=Math.max(ans,wind_size);
+
             r++;
         }
         return ans;
+
         
     }
 }
