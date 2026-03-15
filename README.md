@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-smallest-range-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
 | [1013-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1013-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1390-four-divisors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1390-four-divisors) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -779,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
