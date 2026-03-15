@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
