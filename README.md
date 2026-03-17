@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1791-richest-customer-wealth) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1646-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2245-destroying-asteroids](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2245-destroying-asteroids) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -741,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -798,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3634-minimum-removals-to-balance-array) |
