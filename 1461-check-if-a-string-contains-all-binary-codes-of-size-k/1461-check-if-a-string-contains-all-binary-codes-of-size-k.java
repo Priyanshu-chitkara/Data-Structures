@@ -1,29 +1,26 @@
 class Solution {
     public boolean hasAllCodes(String s, int k) {
         int n=s.length();
-       HashSet<String> mp=new HashSet<>();
-        for(int i=0;i<=n-k;i++){
-            StringBuilder sb=new StringBuilder();
-            
-            for(int j=i;j<k+i;j++){
-                sb.append(s.charAt(j));
-
-
+        int l=0;
+        int r=0;
+        HashSet<String> set=new HashSet<>();
+        while(r<n){
+            if(r-l+1==k){
+                StringBuilder sb=new StringBuilder();
+                for(int i=l;i<=r;i++){
+                    sb.append(s.charAt(i));
+                }
+                l++;
+                set.add(sb.toString());
+               
             }
-            mp.add(sb.toString());
-           
-
+            r++;
+            
         }
-        int comb=1;
-        for(int i=1;i<=k;i++){
-            comb*=2;
+        if(set.size()==Math.pow(2,k)){
+            return true;
         }
-        
-        if(mp.size()<comb){
-            return false;
-        }
-        return true;
-
+        return false;
         
     }
 }
