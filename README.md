@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3843-first-element-with-unique-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3843-first-element-with-unique-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3634-minimum-removals-to-balance-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3843-first-element-with-unique-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3843-first-element-with-unique-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3843-first-element-with-unique-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/3843-first-element-with-unique-frequency) |
 ## Recursion
 |  |
 | ------- |
