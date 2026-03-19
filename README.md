@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1695-maximum-erasure-value) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1646-kth-missing-positive-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-erasure-value](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1695-maximum-erasure-value) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1791-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1695-maximum-erasure-value) |
 | [1755-defuse-the-bomb](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1755-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
