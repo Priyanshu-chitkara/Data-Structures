@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0454-4sum-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0692-top-k-frequent-words) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-smallest-range-i](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0946-smallest-range-ii) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0605-can-place-flowers) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Priyanshu-chitkara/Data-Structures/tree/master/0930-binary-subarrays-with-sum) |
